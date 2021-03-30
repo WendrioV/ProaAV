@@ -1,5 +1,7 @@
 programa
-{	inteiro resultado, numero
+{	/*Faça um programa mostrando a tabuada do 5 com os números de 1 a 10.*/
+	
+	inteiro resultado, numero
 	
 	funcao inicio()
 	{
@@ -16,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 259; 
+ * @POSICAO-CURSOR = 82; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
